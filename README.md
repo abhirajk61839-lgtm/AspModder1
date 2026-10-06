@@ -1,3 +1,6 @@
+git add codemagic.yaml
+git commit -m 'Add first workflow'
+git push
 # AspModder1
 // aspmodder1 - Play Store style Mod Store (Flutter)
 // Data source: Blogger RSS feed of asplovevlog1.blogspot.com
